@@ -1,4 +1,4 @@
-# blog-with-admin-panel
+# games-api
 
 ## Stack
 
